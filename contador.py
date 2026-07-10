@@ -1,4 +1,4 @@
-frase = 'Python é uma linguagem versátil e fácil de aprender' 
+frase = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa' 
 
 i = 0
 qtd_apareceu_mais_vezes = 0

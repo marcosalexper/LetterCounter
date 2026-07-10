@@ -1,0 +1,1 @@
+Iterando strings com while.
